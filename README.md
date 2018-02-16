@@ -1,4 +1,4 @@
-## fio
+## :electric_plug: fio
 simple socket relay tool
 
 #### install
