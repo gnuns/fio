@@ -1,13 +1,13 @@
 {
   "name": "fio-cli",
-  "version": "0.0.1-a",
+  "version": "0.0.2",
   "description": "simple socket relay tool",
   "main": "fio.js",
   "bin": {
    "fio": "./fio.js"
   },
   "repository": "git@github.com:gnuns/fio.git",
-  "author": "Gabriel <gabriel@multiverso.me>",
+  "author": "Gabriel Nunes <gabriel@multiverso.me>",
   "license": "MIT",
   "private": false
 }
